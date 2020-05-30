@@ -1,2 +1,1 @@
-#learning kubernetes
-commiting sample kubernetes files as I learn them
+commiting kubernetes yml files as I learn them
