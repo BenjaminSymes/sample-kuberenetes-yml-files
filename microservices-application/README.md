@@ -1,1 +1,1 @@
-Working on setting up a Kubernetes cluster on Google Cloud platform that hosts a simple microservices application using Python, NodeJS, Redis, Postgre SQL and .Net services. I will post commands that I run in here as I apply them.
+Working on setting up a Kubernetes cluster on Google Cloud platform that hosts a simple microservices application using Python, NodeJS, Redis, Postgre SQL and .Net services. I will post commands here as I run them.
