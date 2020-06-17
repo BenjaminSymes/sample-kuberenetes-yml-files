@@ -1,4 +1,4 @@
-apiVersion: v1
+apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: nginx-test
@@ -7,7 +7,7 @@ spec:
   replicas: 3
 
   # 2. How to update the pods?
-  strategy: Recreate
+##  strategy: Recreate
 
   # 3. Which pods are managed by this deployment?
   selector:
